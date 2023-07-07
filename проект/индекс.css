@@ -1,5 +1,5 @@
 * {
-    font-family: Verdana;
+    font-family: Castellar, serif;
     margin: 0;
     padding: 0;
 }
@@ -7,5 +7,17 @@
     width:100%;
     color: white;
     padding: 20px;
-    background: #191970;
+    background: black;
+}
+.menu-item{
+    list-style: none;
+}
+.menu-link{
+    color: azure;
+    text-decoration: none;
+}
+.conteiner{
+    max-width: 1140px;
+    padding: 10px;
+    margin: 15px ;
 }
